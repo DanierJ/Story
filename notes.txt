@@ -1,0 +1,15 @@
+------- Instructions ------ 
+
+git init ---> Init a new working directory
+
+git status ---> It shows me the files that are being (or not) tracked. 
+
+git add <file> ---> It allows me to add a file to the staging area (git add . to add everything). 
+
+git commit ---> It allows me to commit a file ( -m to indicate a message commit). 
+
+git log ---> It shows me the commits that I've made. 
+
+git diff <file> ---> It allows me to check the difference between changes. 
+
+git checkout <file> ---> It allows me to rolleback a file. 

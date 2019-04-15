@@ -1,4 +1,4 @@
-------- Instructions ------ 
+﻿------- Instructions ------ 
 
 git init ---> Init a new working directory.
 
@@ -22,7 +22,6 @@ git branch <name> ---> Allows us to create a new branch.
 
 git branch ---> Allows us to see the branchs.
 
-<<<<<<< HEAD
 git clone ---> Allows us to clone a remote repository of another person to our computer.
 
 git pull ---> Allows us to bring the files of our remote repository to our working directory. 
@@ -30,8 +29,7 @@ git pull ---> Allows us to bring the files of our remote repository to our worki
 git merge ---> Allows us to merge the modifed files of an alternative branch to our master branch. 
 
 git pull request ---> To push out modification into someone else's repository.
-=======
-git clone ---> Allows us to clone a remote repository to our local repository.
 
-hey no se te olvidó nada? 
->>>>>>> 760060b041d9fd80f4bc6d071835ba8b01903dff
+
+
+

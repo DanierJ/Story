@@ -23,3 +23,5 @@ git branch <name> ---> Allows us to create a new branch.
 git branch ---> Allows us to see the branchs.
 
 git clone ---> Allows us to clone a remote repository to our local repository.
+
+hey no se te olvidó nada? 

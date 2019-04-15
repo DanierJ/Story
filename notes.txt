@@ -17,3 +17,7 @@ git checkout <file> ---> It allows me to rollback a file.
 git remote add origin <link to gitHub repository> ---> It allows us to add a remote repository  
 
 git push -u origin master ---> It allows to transfer the files that we have locally to our remote repository ( -u links remote and local repository) (origin the origin) and master (the branch).
+
+git branch <name> ---> Allows us to create a new branch 
+
+git branch ---> Allows us to see the branchs 

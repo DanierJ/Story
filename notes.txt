@@ -12,4 +12,8 @@ git log ---> It shows me the commits that I've made.
 
 git diff <file> ---> It allows me to check the difference between changes. 
 
-git checkout <file> ---> It allows me to rolleback a file. 
+git checkout <file> ---> It allows me to rollback a file. 
+
+git remote add origin <link to gitHub repository> ---> It allows us to add a remote repository  
+
+git push -u origin master ---> It allows to transfer the files that we have locally to our remote repository ( -u links remote and local repository) (origin the origin) and master (the branch).

@@ -22,4 +22,8 @@ git branch <name> ---> Allows us to create a new branch.
 
 git branch ---> Allows us to see the branchs.
 
-git clone ---> Allows us to clone a remote repository to our local repository.
+git clone ---> Allows us to clone a remote repository of another person to our computer.
+
+git pull ---> Allows us to bring the files of our remote repository to our working directory. 
+
+git merge ---> Allows us to merge the modifed files of an alternative branch to our master branch. 
